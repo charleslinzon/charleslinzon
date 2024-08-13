@@ -3,7 +3,7 @@
 
 - 🔭 This is my Ecommerce Project [DCL Shop](https://github.com/charleslinzon/dclshop)
 
-- 👯 This is my Inventory Project [DCL Inventory Sysmte](https://github.com/charleslinzon/dclshop)
+- 👯 This is my Inventory Project [DCL Inventory Sysmtem](https://github.com/charleslinzon/dclshop)
 
 - 📫 How to reach me **dycharleslinzon.ca@gmail.com**
 
