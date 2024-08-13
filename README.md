@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Engr. Charles Linzon Dy</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h3 align="center">A dedicated frontend web developer with a deep passion for coding.</h3>
 
-- 🔭 This is my Ecommerce Project [DCL Shop](https://github.com/charleslinzon/dclshop)
-
-- 👯 This is my Inventory Project [DCL Inventory Sysmtem](https://github.com/charleslinzon/dclshop)
+- 🔭 Full Stack Multivendor Ecommerce Applications Project with React.js, Redux, Hooks, Node.js, Express.js and MongoDB [DCL Shop](https://github.com/charleslinzon/dclshop)
 
 - 📫 How to reach me **dycharleslinzon.ca@gmail.com**
 
